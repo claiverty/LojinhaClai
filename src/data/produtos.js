@@ -49,7 +49,7 @@ export const PRODUTOS = [
       ["Iluminação", "Fans ARGB sincronizados"],
       ["Sistema Operacional", "Windows 11 Pro (Ativado e pronto para uso)"],
     ],
-    preco: 5000,
+    preco: 5500,
     vendido: false,
     icone: "🖥️",
   },
