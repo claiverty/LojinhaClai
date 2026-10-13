@@ -45,6 +45,7 @@ export const PRODUTOS = [
       ["Water Cooler", "Mancer Mystic G1 120mm ARGB Branco (com display digital de temperatura)"],
       ["SSD NVMe", "Adata XPG Spectrix S40G 512GB RGB (3500MB/s leitura)"],
       ["SSD SATA", "Adata SU650 256GB"],
+      ["Fonte", "Rise Mode 650W Modular Branca"],
       ["Gabinete", "Aigo DarkFlash DLM 21 Branco (lateral em vidro temperado)"],
       ["Iluminação", "Fans ARGB sincronizados"],
       ["Sistema Operacional", "Windows 11 Pro (Ativado e pronto para uso)"],
